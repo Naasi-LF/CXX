@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/code/CXX/LibArray/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\LibArray.dir\\main.cpp.obj -c D:\\code\\CXX\\LibArray\\main.cpp",
+  "file": "D:/code/CXX/LibArray/main.cpp",
+  "output": "CMakeFiles/LibArray.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/code/CXX/LibArray/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\LibArray.dir\\erase.cpp.obj -c D:\\code\\CXX\\LibArray\\erase.cpp",
+  "file": "D:/code/CXX/LibArray/erase.cpp",
+  "output": "CMakeFiles/LibArray.dir/erase.cpp.obj"
+},
+{
+  "directory": "D:/code/CXX/LibArray/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\LibArray.dir\\repeat.cpp.obj -c D:\\code\\CXX\\LibArray\\repeat.cpp",
+  "file": "D:/code/CXX/LibArray/repeat.cpp",
+  "output": "CMakeFiles/LibArray.dir/repeat.cpp.obj"
+},
+{
+  "directory": "D:/code/CXX/LibArray/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\LibArray.dir\\insert.cpp.obj -c D:\\code\\CXX\\LibArray\\insert.cpp",
+  "file": "D:/code/CXX/LibArray/insert.cpp",
+  "output": "CMakeFiles/LibArray.dir/insert.cpp.obj"
+}
+]

@@ -1,8 +1,0 @@
-{
-    "cmake.sourceDirectory": "D:/code/CXX/LibArray",
-    "files.associations": {
-        "chrono": "cpp",
-        "ranges": "cpp",
-        "variant": "cpp"
-    }
-}
